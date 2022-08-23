@@ -3,7 +3,7 @@ const hoursEl = document.getElementById('hours');
 const minutesEl = document.getElementById('minutes');
 const secondsEl = document.getElementById('seconds');
 
-const Mybday = '1 jan 2022';
+const Mybday = '1 jan 2023';
 
 function countdown() {
     const nextYearsBday = new Date(Mybday);
